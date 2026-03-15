@@ -18,3 +18,11 @@ print(name[6])
 #print all the words of string using for loop
 for newa in a:
     print(newa)
+
+
+#check string length
+print(len(name))
+
+#To check if a certain phrase or character is present in a string
+txt = "The best things in life are free!"
+print("free" in txt)
